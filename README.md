@@ -1,3 +1,3 @@
 # Documentation of Moonafly
 
-[GitHub Repository](https://github.com/lifeadventurer/moonafly)
+[Moonafly Repository](https://github.com/lifeadventurer/moonafly)
